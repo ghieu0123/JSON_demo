@@ -1,0 +1,18 @@
+[
+  {
+    "username": "ghieu0123",
+    "address": "Pho Va",
+    "name": [
+      {"firstName": "Hieu", "lastName": "Nguyen"},
+      {"firstName": "Anh", "lastName": "Duc"}
+    ]
+  },
+  {
+    "username": "namanh123",
+    "address": "Nam Dinh",
+    "name": [
+      {"firstName": "Anh", "lastName": "Nam"},
+      {"firstName": "Hao", "lastName": "Duc"}
+    ]
+  }
+]
